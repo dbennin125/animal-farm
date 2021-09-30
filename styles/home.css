@@ -1,1 +1,6 @@
 /* add home page styles here */
+.images-div {
+    display: flex;
+    flex-direction: column;
+    
+}

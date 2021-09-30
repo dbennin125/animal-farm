@@ -45,6 +45,13 @@ section {
     border: solid 2px var(--color1);
 }
 
+img {
+    height: 200px;
+    width: auto;
+    margin: 5px;
+    border-radius: 20px;
+}
+
 header {
     display: flex;
     justify-content: flex-end;
